@@ -1,0 +1,5 @@
+{
+    "https://lenta.ru/parts/news/": "LentaParser",
+    "https://ria.ru/lenta/": "RIAParser",
+    "https://www.interfax.ru/": "InterfaxParser"
+}

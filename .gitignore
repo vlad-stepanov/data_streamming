@@ -1,0 +1,36 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+*.env
+venv_saved/
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mypy and other type checkers
+.mypy_cache/
+.pytype/
+
+# Coverage reports
+.coverage
+*.coveragerc
+coverage.xml
+nosetests.xml
+test_*.xml
+
+# Dist and build directories
+build/
+dist/
+*.egg-info/
+
+# Local configuration files
+*.log
+*.sqlite3

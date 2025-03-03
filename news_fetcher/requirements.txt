@@ -1,0 +1,4 @@
+aiokafka
+requests
+beautifulsoup4
+lxml

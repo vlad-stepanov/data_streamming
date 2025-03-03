@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+aiokafka
+asyncpg
+psycopg2
